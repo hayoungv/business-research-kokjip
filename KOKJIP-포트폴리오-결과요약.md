@@ -235,6 +235,4 @@ H-Signal은 게이트 1번일 뿐이다.
 | 사람 판정 | `콕집/KOKJIP_Signal_Dataset_v0.1_HumanReview.xlsx` |
 | v0.1 분류기·실행 결과 | `콕집/KOKJIP_Signal_Classifier_v0.1.xlsx` · `콕집/KOKJIP_Signal_AI_Classification_v0_1.xlsx` |
 | v0.2 프롬프트·실행 결과 | `콕집/KOKJIP_Signal_Classifier_Prompt_v0.2.md` · `콕집/KOKJIP_Signal_AI_Classification_v0_2.xlsx` |
-| 가설·게이트 정의 | `llm-wiki/wiki/claims/h-signal.md` · `claim-register.md` · `grounding-matrix.md` |
 | 가치 기준 문서 | `08-competitor-value-declaration/KOKJIP-VPS-v2_0-rooted.md` |
-| 현재 판정 | `llm-wiki/wiki/cases/case-01-kokjip/c01-verdict.md` |
